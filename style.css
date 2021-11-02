@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-align: center;
+}
+td{
+    border-left: 3px solid blue;
+    padding: 20px;
+}
+td:hover{
+    border-left: 3px solid lightgreen;
+    transition: .2s;
+}
+.git{
+    color: brown;
+}
+table{
+    margin: 0 auto;
+    font-size: 24px;
+}
